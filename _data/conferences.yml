@@ -1,6 +1,15 @@
 ---
  # Security and Privacy
   
+- name: ICICS 2023
+  description: The 25th International Conference on Information and Communications Security
+  year: 2023
+  link: https://icics23.nankai.edu.cn
+  deadline: "2023-03-30 23:59"
+  date: November 18-20
+  place: Tianjin, CN
+  tags: [SEC, PRIV]
+  
 - name: S&P (Oakland)
   year: 2023
   date: "May 22 – 26"
